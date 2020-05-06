@@ -1,9 +1,9 @@
 # Projetos
 
 ## Pessoais
-- Audiunt - Projeto privado - Plataforma de ensino com aplicativo para aprendizado de Libras - (em desenvolvimento)
+- Audiunt - Projeto privado - Plataforma de ensino(e app mobile) para aprendizado por video aulas e realização de exercícios: futura demo
 - Portifólio pessoal - projeto bem simples com alguns contatos, criado para o melhor entendimento do Git Pages <a href="https://github.com/Guibs1/Guibs1.github.io">ver</a>.
-- Landing page para Salōes de Beleza - projeto para apenas manter a prática em programação e explorar as mudanças no Laravel 6 - (em desenvolvimento) <a href="https://github.com/Guibs1/LP_Salon">ver</a>.
+- Site intitucional para Salōes de Beleza - projeto para apenas manter a prática em programação e explorar as mudanças no Laravel 6 - (em desenvolvimento)
 
 ## Cursos
 - Teste e Qualidade de software - Inicialmente se tornou um pequeno projeto de validaçōes usando php e javascript <a href="https://github.com/Guibs1/Testes-QualidadedeSoftware">ver</a>.
