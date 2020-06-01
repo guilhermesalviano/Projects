@@ -1,4 +1,5 @@
 # Projetos
+## Freelas
 - Studio Elimar Farias - Site intitucional para Salōes de Beleza - React - <a target="_blank" href="https://studio-elimar-farias.now.sh/">ver</a>.
 - Puzzlels - Escola de inglês online - Desenvolvimento do backend e integrações com mailchimp - <a target="_blank" href="https://www.puzzlels.com.br/?utm_source=github:guilherme&utm_medium=projetos&utm_campaign=projetos:guilherme">ver</a>.
 
