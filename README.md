@@ -3,9 +3,10 @@
 - Studio Elimar Farias - Site intitucional para Salōes de Beleza - React - <a target="_blank" href="https://studio-elimar-farias.now.sh/">ver</a>.
 - Puzzlels - Escola de inglês online - Desenvolvimento do backend e integrações com mailchimp - <a target="_blank" href="https://www.puzzlels.com.br/?utm_source=github:guilherme&utm_medium=projetos&utm_campaign=projetos:guilherme">ver</a>.
 
-## Pessoais
+## Poc's
 - Portifólio pessoal - em desenvolvimento.
 - Audiunt - Projeto privado - Plataforma de ensino(e app mobile) para aprendizado por video aulas e realização de exercícios: futura demo
+- Mensseger Copy - React native e Typescript - <a target="_blank" href="https://github.com/Guibs1/mensseger-copy">Ver</a>
 
 ## Cursos
 - Teste e Qualidade de software - Inicialmente se tornou um pequeno projeto de validaçōes usando php e javascript <a target="_blank" href="https://github.com/Guibs1/Testes-QualidadedeSoftware">ver</a>.
