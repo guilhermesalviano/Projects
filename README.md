@@ -11,7 +11,6 @@
 ![](https://raw.githubusercontent.com/Guibs1/messenger-copy/master/messenger_copy.gif)
 
 ## Cursos
-- <a target="_blank" href="https://github.com/Guibs1/Testes-QualidadedeSoftware">Teste e Qualidade de software - Inicialmente se tornou um pequeno projeto de validaçōes usando php e javascript</a>.
 - <a target="_blank" href="https://github.com/Guibs1/to-be-hero">Semana Omnistack 11 - desenvolvimento de uma aplição Web e Mobile com nodejs, reactjs e react native</a>.
 ![](https://github.com/Guibs1/to-be-hero/raw/master/to-be-hero-app.gif)
 ![](https://github.com/Guibs1/to-be-hero/raw/master/to-be-hero-web.gif)
@@ -22,4 +21,3 @@
 
 ## Etec
 - <a target="_blank" href="https://github.com/Guibs1/TCC-Etec-2017/">TCC 2017 - GMG System - Projeto pausado - Controle de estoque utilizando Java SE Desktop</a>.
-- TCC 2018 - E-libras - Projeto pausado
