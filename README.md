@@ -5,7 +5,7 @@
 - <a target="_blank" href="https://www.puzzlels.com.br/?utm_source=github:guilherme&utm_medium=projetos&utm_campaign=projetos:guilherme">Puzzlels - Escola de inglês online - Desenvolvimento do backend e integrações com mailchimp</a>.
 
 ## Poc's
-- Portifólio pessoal - <a target="_blank" href="https://guilhermesalviano.now.sh/">ver</a>.
+- <a target="_blank" href="https://guilhermesalviano.now.sh/">Portifólio pessoal</a>.
 - Audiunt - Projeto privado - Plataforma de ensino(e app mobile) para aprendizado por video aulas e realização de exercícios: futura demo
 - <a target="_blank" href="https://github.com/Guibs1/mensseger-copy">Messenger Copy - React native e Typescript</a>
 ![](https://raw.githubusercontent.com/Guibs1/messenger-copy/master/messenger_copy.gif)
@@ -16,7 +16,7 @@
 ![](https://github.com/Guibs1/to-be-hero/raw/master/to-be-hero-app.gif)
 ![](https://github.com/Guibs1/to-be-hero/raw/master/to-be-hero-web.gif)
 <!-- Upload de arquivos - local e aws-s3 com nodejs - <a target="_blank" href="https://github.com/Guibs1/upload-files-nodejs-react">Ver</a>.-->
-- Ecoleta - Semana next level 1 - typescript, react e react-native - <a target="_blank" href="https://github.com/Guibs1/semana-next-level1">Ver</a>.
+- <a target="_blank" href="https://github.com/Guibs1/semana-next-level1">Ecoleta - Semana next level 1 - typescript, react e react-native</a>.
 ![](https://github.com/Guibs1/ecoleta/raw/master/ecoleta-app.gif)
 ![](https://github.com/Guibs1/ecoleta/raw/master/ecoleta-web.gif)
 
