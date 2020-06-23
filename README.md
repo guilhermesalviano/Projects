@@ -16,7 +16,7 @@
 ![](https://github.com/Guibs1/to-be-hero/raw/master/to-be-hero-app.gif)
 ![](https://github.com/Guibs1/to-be-hero/raw/master/to-be-hero-web.gif)
 <!-- Upload de arquivos - local e aws-s3 com nodejs - <a target="_blank" href="https://github.com/Guibs1/upload-files-nodejs-react">Ver</a>.-->
-- <a target="_blank" href="https://github.com/Guibs1/semana-next-level1">Ecoleta - Semana next level 1 - typescript, react e react-native</a>.
+- <a target="_blank" href="https://github.com/Guibs1/semana-next-level1">Ecoleta - Semana next level 1 - typescript, react e react-native</a>. ----
 ![](https://github.com/Guibs1/ecoleta/raw/master/ecoleta-app.gif)
 ![](https://github.com/Guibs1/ecoleta/raw/master/ecoleta-web.gif)
 
