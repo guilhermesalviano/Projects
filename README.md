@@ -1,5 +1,5 @@
 # Estes são alguns Projetos que já realizer
-- <a href="https://alphabureau.com.br">Plataforma completa da Alpha Life Bureau com ReactJs, NodeJs e Redux.</a>
+- <a target="_blank" href="https://alphabureau.com.br">Plataforma completa da Alpha Life Bureau com ReactJs, NodeJs e Redux.</a>
 
 - <a target="_blank" href="https://www.puzzlels.com.br/?utm_source=github:guilherme&utm_medium=projetos&utm_campaign=projetos:guilherme">Puzzlels - Escola de inglês online - Desenvolvimento do backend e integrações com mailchimp</a>.
 
