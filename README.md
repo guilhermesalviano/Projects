@@ -5,6 +5,7 @@
 - <a target="_blank" href="https://www.puzzlels.com.br/?utm_source=github:guilherme&utm_medium=projetos&utm_campaign=projetos:guilherme">Puzzlels - Escola de inglês online - Desenvolvimento do backend e integrações com mailchimp</a>.
 
 - <a target="_blank" href="https://guilhermesalviano.now.sh/">Portifólio pessoal</a>.
+![](demo-portifolio.gif)
 
 - <a target="_blank" href="https://studio-elimar-farias.now.sh/">Studio Elimar Farias - Site intitucional para Salōes de Beleza - React</a>.
 ![](Studio_Elimar_Farias.gif)
