@@ -8,7 +8,7 @@
 ![](demo-portifolio.gif)
 
 - <a target="_blank" href="https://studio-elimar-farias.now.sh/">Studio Elimar Farias - Site intitucional para Salōes de Beleza - React</a>.
-![](Studio_Elimar_Farias.gif)
+![](demo-studio-elimar-farias.gif)
 
 - <a target="_blank" href="https://github.com/Guibs1/mensseger-copy">Messenger Copy - React native e Typescript</a>
 ![](https://raw.githubusercontent.com/Guibs1/messenger-copy/master/messenger_copy.gif)
