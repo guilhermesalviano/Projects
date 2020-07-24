@@ -1,4 +1,4 @@
-# Estes são alguns Projetos que já realizer
+# Estes são alguns Projetos que já realizei
 - Plataforma completa da Alpha Life Bureau com ReactJs, NodeJs e Redux.
 ![](demo-gigprint.gif)
 
