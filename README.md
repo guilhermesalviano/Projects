@@ -7,7 +7,7 @@
 - <a target="_blank" href="https://guilhermesalviano.now.sh/">Portifólio pessoal</a>.
 ![](demo-portifolio.gif)
 
-- <a target="_blank" href="https://studio-elimar-farias.now.sh/">Studio Elimar Farias - Site intitucional para Salōes de Beleza - React</a>.
+- <a target="_blank" href="https://studio-elimar-farias.now.sh/">Studio Elimar Farias - Site institucional para Salão de Beleza - Feito com ReactJs.</a>.
 ![](demo-studio-elimar-farias.gif)
 
 - <a target="_blank" href="https://github.com/Guibs1/mensseger-copy">Messenger Copy - React native e Typescript</a>
@@ -17,7 +17,7 @@
 ![](https://github.com/Guibs1/ecoleta/raw/master/ecoleta-web.gif)
 ![](https://github.com/Guibs1/ecoleta/raw/master/ecoleta-app.gif)
 
-- <a target="_blank" href="https://github.com/Guibs1/to-be-hero">Semana Omnistack 11 - desenvolvimento de uma aplição Web e Mobile com nodejs, reactjs e react native</a>.
+- <a target="_blank" href="https://github.com/Guibs1/to-be-hero">Semana Omnistack 11 - desenvolvimento de uma aplicação Web e Mobile com nodejs, reactjs e react native</a>.
 ![](https://github.com/Guibs1/to-be-hero/raw/master/to-be-hero-web.gif)
 ![](https://github.com/Guibs1/to-be-hero/raw/master/to-be-hero-app.gif)
 <!-- Upload de arquivos - local e aws-s3 com nodejs - <a target="_blank" href="https://github.com/Guibs1/upload-files-nodejs-react">Ver</a>.-->
