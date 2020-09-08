@@ -6,6 +6,7 @@
 - ReactJs
 - NodeJs
 - Redux<br />
+### Demo:
 ![](demo-gigprint.gif)
 
 ## 🧩 Puzzle Language School - Escola de inglês online.
@@ -13,29 +14,34 @@
   ### Tecnologias:
   - ReactJs
   - Typescript<br />
+  ### Demo:
   ![](puzzlels-lp-captura-leads.gif)
   
   ### Desenvolvimento de uma página para venda do curso - Tecnologias utilizadas: ReactJs.     
   ### Tecnologias:
   - ReactJs
   - Typescript<br />
+  ### Demo:
   ![](puzzlels-lp-matricula.gif)
   
   ### Integração Site X Mailchimp para disparo de emails automáticos
   ### Tecnologias:
   - Laravel
   - JQuery<br />
+  ### Demo:
   ![](puzzlels-integracao-site.gif)
 
 ## <a target="_blank" href="https://guilhermesalviano.now.sh/">Portifólio pessoal</a>
 ### Tecnologias 
 - ReactJs<br />
+### Demo:
 ![](demo-portifolio.gif)
 
 ## 💈 <a target="_blank" href="https://studio-elimar-farias.now.sh/">Studio Elimar Farias - Site institucional para Salão de Beleza</a>
 ### Premissa: um MVP para agendamento de horários.
 ### Tecnologias 
 - ReactJs<br />
+### Demo:
 ![](demo-studio-elimar-farias.gif)
 
 ## 📝 <a target="_blank" href="https://github.com/Guibs1/mensseger-copy">Messenger Copy</a>
@@ -45,6 +51,7 @@
 - Typescript
 - NodeJs
 - Socket.io<br />
+### Demo:
 ![](https://raw.githubusercontent.com/Guibs1/messenger-copy/master/messenger_copy.gif)
 
 ## ♻️ <a target="_blank" href="https://github.com/Guibs1/semana-next-level1">Ecoleta - Semana next level 1</a>
@@ -54,6 +61,7 @@
 - Typescript
 - NodeJs
 - React Native<br />
+### Demo:
 ![](https://github.com/Guibs1/ecoleta/raw/master/ecoleta-web.gif)
 ![](https://github.com/Guibs1/ecoleta/raw/master/ecoleta-app.gif)
 
@@ -62,6 +70,7 @@
 - ReactJs
 - NodeJs
 - React Native<br />
+### Demo:
 ![](https://github.com/Guibs1/to-be-hero/raw/master/to-be-hero-web.gif)
 ![](https://github.com/Guibs1/to-be-hero/raw/master/to-be-hero-app.gif)
 <!-- Upload de arquivos - local e aws-s3 com nodejs - <a target="_blank" href="https://github.com/Guibs1/upload-files-nodejs-react">Ver</a>.-->
