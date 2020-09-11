@@ -53,7 +53,9 @@
 ![](demo-studio-elimar-farias.gif)
 
 ## 📝 <a target="_blank" href="https://github.com/Guibs1/mensseger-copy">Messenger Copy</a>
-### POC utilizando Sockets e libs de chat.
+### POC
+Criação de um app com React Native para envio de mensagens instantâneas.
+
 ### Tecnologias 
 - ReactJs
 - Typescript
