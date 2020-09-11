@@ -10,14 +10,22 @@
 ![](demo-gigprint.gif)
 
 ## 🧩 Puzzle Language School - Escola de inglês online.
-  ### Desenvolvimento de uma página para inscrição no conjunto de aulas grátis
+  ### Das ações realizadas:
+  - Criação de um processo em command para inserir leads cadastrados na base do Mailchimp;
+  - Criaçāo de uma API com Laravel para cadastrar/atualizar e listar novos leads;
+  
+  ### Landing Page com ReactJS
+  Criaçāo de uma página para captura de leads;
+  
   ### Tecnologias:
-  - ReactJs
+  - ReactJS
   - Typescript<br />
   ### Demo:
   ![](puzzlels-lp-captura-leads.gif)
   
-  ### Desenvolvimento de uma página para venda do curso - Tecnologias utilizadas: ReactJs.     
+  ### Landing Page com ReactJS
+  Desenvolvimento de uma página para venda do curso - Tecnologias utilizadas: ReactJs.
+  
   ### Tecnologias:
   - ReactJs
   - Typescript<br />
