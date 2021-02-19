@@ -57,7 +57,7 @@
 Criação de um app com React Native para envio de mensagens instantâneas.
 
 ### Tecnologias 
-- ReactJs
+- React Native
 - Typescript
 - NodeJs
 - Socket.io<br />
