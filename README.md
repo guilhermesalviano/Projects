@@ -9,7 +9,7 @@
 ### Demo:
 ![](demo-gigprint.gif)
 
-## 🧩 Puzzle Language School - Escola de inglês online.
+## 🧩 Escola de inglês
   ### Das ações realizadas:
   - Criação de um processo em command para inserir leads cadastrados na base do Mailchimp;
   - Criaçāo de uma API com Laravel para cadastrar/atualizar e listar novos leads;
